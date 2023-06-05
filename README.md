@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm dx-xxxx</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dx-luna&label=Profile%20views&color=0e75b6&style=flat" alt="dx-luna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dx-luna" alt="dx-luna" /></a> </p>
+<h3 align="center">A passionate frontend / AI developer</h3>
 
 - 🔭 I’m currently working on [dxbot](https://github.com/nuojs/dxbot)
 
